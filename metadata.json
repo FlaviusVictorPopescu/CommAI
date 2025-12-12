@@ -1,0 +1,7 @@
+{
+  "name": "CommsAI - Tactical PTT",
+  "description": "A real-time Push-to-Talk application with text messaging, channel management, and AI-powered voice dispatcher integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
